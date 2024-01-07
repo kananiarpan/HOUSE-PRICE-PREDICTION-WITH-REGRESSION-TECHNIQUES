@@ -40,6 +40,8 @@ Once you have chosen the best model, build a Flask server to deploy the model as
 
 Design a simple web UI to interact with the Flask server. Users can input relevant details, and the server will respond with the predicted house price.
 
+<img align="center" src="Price Prediction example on hosted site.webp" alt="Web UI" />
+
 ### Hosting on AWS EC2 Instance <a name="hosting-on-aws-ec2-instance"></a>
 
 Utilize the AWS EC2 instance for hosting your Flask application. This section provides step-by-step guidance on deploying your application on the cloud.
